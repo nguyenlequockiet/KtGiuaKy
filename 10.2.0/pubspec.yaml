@@ -1,0 +1,21 @@
+name: toeic_reading_app
+description: "TOEIC Reading Prep Mobile App - Synchronized from Google Stitch (ID: 6110091525210429932)"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  file_picker: ^13.1.0
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true

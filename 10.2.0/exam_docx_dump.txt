@@ -1,0 +1,1092 @@
+﻿[EXAM_CODE]: ETS_2024_RC_TEST_06
+[EXAM_TITLE]: ETS TOEIC Reading 2024 - Test 06
+[DURATION]: 75
+[TOTAL_QUESTIONS]: 100
+[CATEGORY]: Full Reading
+[DIFFICULTY]: Tiêu chuẩn
+[PART 5]
+[Q: 101]
+[PROMPT]: Jesper Associates currently has ------- with 26 different food suppliers.[cite: 4]
+[A]: contracting
+[B]: contracts
+[C]: contractor
+[D]: contract
+[KEY]: B
+[CATEGORY]: Từ loại (Danh từ)
+[EXPLANATION]: Sau động từ "has" và trước cụm từ chỉ số lượng "26 different food suppliers", ta cần một danh từ đếm được số nhiều "contracts" (những hợp đồng).[cite: 4]
+[Q: 102]
+[PROMPT]: Passengers must be at the gate ------- 25 minutes prior to boarding their flight.[cite: 4]
+[A]: at least
+[B]: as much
+[C]: in case
+[D]: by then
+[KEY]: A
+[CATEGORY]: Cụm từ chỉ số lượng
+[EXPLANATION]: Cụm từ "at least + khoảng thời gian/số lượng" có nghĩa là ít nhất (ít nhất 25 phút).[cite: 4]
+[Q: 103]
+[PROMPT]: Deltran analytics software can help ------- identify issues, predict trends, and improve business.[cite: 4]
+[A]: you
+[B]: your
+[C]: yours
+[D]: yourself
+[KEY]: A
+[CATEGORY]: Đại từ nhân xưng
+[EXPLANATION]: Cấu trúc "help + Object (tân ngữ) + V(bare)" -&gt; Cần tân ngữ "you" để hoàn thành câu (giúp bạn xác định vấn đề).[cite: 4]
+[Q: 104]
+[PROMPT]: The technology department ------- to purchase three new servers next year.[cite: 4]
+[A]: announces
+[B]: thinks
+[C]: predicts
+[D]: plans
+[KEY]: D
+[CATEGORY]: Từ vựng (Động từ)
+[EXPLANATION]: Dựa vào ngữ nghĩa và cấu trúc "plan to do something" (lên kế hoạch làm gì đó), đáp án D là phù hợp nhất.[cite: 4]
+[Q: 105]
+[PROMPT]: Jennson Motors hired an ------- efficiency expert last month.[cite: 4]
+[A]: approximate
+[B]: angular
+[C]: exceptional
+[D]: eventual
+[KEY]: C
+[CATEGORY]: Từ vựng (Tính từ)
+[EXPLANATION]: Cần một tính từ bổ nghĩa cho "expert". "exceptional" mang nghĩa là xuất chúng, nổi bật (một chuyên gia xuất chúng).[cite: 4]
+[Q: 106]
+[PROMPT]: Mr. Winkel's ------- responsibilities include auditing and financial review of large clients.[cite: 4]
+[A]: accounts
+[B]: accounted
+[C]: accounting
+[D]: accountable
+[KEY]: C
+[CATEGORY]: Từ loại (Danh từ ghép)
+[EXPLANATION]: Cần một danh từ kết hợp với "responsibilities" tạo thành cụm danh từ ghép. "accounting responsibilities" (trách nhiệm kế toán).[cite: 4]
+[Q: 107]
+[PROMPT]: The prime minister greeted foreign diplomats ------- a luncheon today in London.[cite: 4]
+[A]: at
+[B]: had
+[C]: such
+[D]: where
+[KEY]: A
+[CATEGORY]: Giới từ
+[EXPLANATION]: Dùng giới từ "at" để chỉ một sự kiện cụ thể "at a luncheon" (tại một buổi tiệc trưa).[cite: 4]
+[Q: 108]
+[PROMPT]: The management team at Ofto Corporation offers incentives ------- employee productivity.[cite: 4]
+[A]: stimulate
+[B]: to stimulate
+[C]: will stimulate
+[D]: are stimulating
+[KEY]: B
+[CATEGORY]: Động từ nguyên thể có To
+[EXPLANATION]: Cần dùng "to + V(bare)" để chỉ mục đích của hành động (đưa ra ưu đãi ĐỂ kích thích năng suất).[cite: 4]
+[Q: 109]
+[PROMPT]: In response to customer -------, Lopez Naturals will release a line of organic soaps.[cite: 5]
+[A]: demand
+[B]: permit
+[C]: arrival
+[D]: account
+[KEY]: A
+[CATEGORY]: Từ vựng (Danh từ)
+[EXPLANATION]: Cụm từ cố định "in response to customer demand" (để đáp ứng nhu cầu của khách hàng).[cite: 5]
+[Q: 110]
+[PROMPT]: Before the computers leave the factory, they are ------- thoroughly to ensure they have no defects.[cite: 5]
+[A]: selected
+[B]: inspected
+[C]: attached
+[D]: managed
+[KEY]: B
+[CATEGORY]: Từ vựng (Động từ)
+[EXPLANATION]: Động từ "inspected" (được kiểm tra) đi với trạng từ "thoroughly" (kỹ lưỡng) hoàn toàn hợp lý về nghĩa.[cite: 5]
+[Q: 111]
+[PROMPT]: WRUZ Radio will broadcast a new show ------- to business news and economic analysis.[cite: 5]
+[A]: allowed
+[B]: prepared
+[C]: dedicated
+[D]: introduced
+[KEY]: C
+[CATEGORY]: Từ vựng (Tính từ/Phân từ)
+[EXPLANATION]: Cụm từ "dedicated to" có nghĩa là dành riêng cho (một chương trình mới dành riêng cho tin tức kinh doanh).[cite: 5]
+[Q: 112]
+[PROMPT]: Mr. Okada met ------- with the building manager to discuss the demolition project.[cite: 5]
+[A]: frequent
+[B]: frequenting
+[C]: frequently
+[D]: frequented
+[KEY]: C
+[CATEGORY]: Từ loại (Trạng từ)
+[EXPLANATION]: Chỗ trống cần một trạng từ để bổ nghĩa cho động từ "met" -&gt; "met frequently" (gặp gỡ thường xuyên).[cite: 5]
+[Q: 113]
+[PROMPT]: Mr. Montri politely ------- the job offer from Barranca Shipping Company.[cite: 5]
+[A]: declined
+[B]: decreased
+[C]: prevented
+[D]: converted
+[KEY]: A
+[CATEGORY]: Từ vựng (Động từ)
+[EXPLANATION]: "declined the job offer" có nghĩa là từ chối lời mời làm việc (một cách lịch sự).[cite: 5]
+[Q: 114]
+[PROMPT]: Written permission must ------- before using Thavor Corporation's logo.[cite: 5]
+[A]: to obtain
+[B]: obtained
+[C]: be obtained
+[D]: obtaining
+[KEY]: C
+[CATEGORY]: Thể bị động
+[EXPLANATION]: Cấu trúc bị động với động từ khuyết thiếu: "must + be + V3/ed" (sự cho phép bằng văn bản phải ĐƯỢC xin).[cite: 5]
+[Q: 115]
+[PROMPT]: ------- it is relatively small, the fitness center at Ginder Apartments is very popular with residents.[cite: 5]
+[A]: Reasoning
+[B]: Essentially
+[C]: Although
+[D]: Throughout
+[KEY]: C
+[CATEGORY]: Liên từ
+[EXPLANATION]: Hai mệnh đề mang ý nghĩa tương phản (nhỏ bé &gt;&lt; rất phổ biến) nên sử dụng liên từ "Although" (Mặc dù).[cite: 5]
+[Q: 116]
+[PROMPT]: All communications must be approved by the public relations director before they can be shared -------.[cite: 5]
+[A]: certainly
+[B]: externally
+[C]: deeply
+[D]: utterly
+[KEY]: B
+[CATEGORY]: Từ vựng (Trạng từ)
+[EXPLANATION]: "shared externally" mang nghĩa là được chia sẻ ra bên ngoài (ngoài phạm vi công ty).[cite: 5]
+[Q: 117]
+[PROMPT]: Providing precision welding to a ------- array of industries, Mistone Metalworks recently celebrated a century of service in Quebec.[cite: 5]
+[A]: widely
+[B]: widen
+[C]: width
+[D]: wide
+[KEY]: D
+[CATEGORY]: Từ loại (Tính từ)
+[EXPLANATION]: Cần tính từ bổ nghĩa cho cụm danh từ "array of industries". "a wide array of" (một loạt đa dạng).[cite: 5]
+[Q: 118]
+[PROMPT]: Mr. Kim considers punctuality a crucial ------- for all his assistants to have.[cite: 5]
+[A]: device
+[B]: type
+[C]: action
+[D]: trait
+[KEY]: D
+[CATEGORY]: Từ vựng (Danh từ)
+[EXPLANATION]: "a crucial trait" mang nghĩa là một phẩm chất/đặc điểm quan trọng (sự đúng giờ là một phẩm chất quan trọng).[cite: 5]
+[Q: 119]
+[PROMPT]: The chief financial officer has ------- the importance of attracting new customers next quarter.[cite: 5]
+[A]: applied
+[B]: demanded
+[C]: administered
+[D]: emphasized
+[KEY]: D
+[CATEGORY]: Từ vựng (Động từ)
+[EXPLANATION]: "emphasized the importance of" có nghĩa là nhấn mạnh tầm quan trọng của việc gì đó.[cite: 5]
+[Q: 120]
+[PROMPT]: Sewerd Furnishings is closing some of its showrooms because customers are ------- ordering furniture online.[cite: 5]
+[A]: increasing
+[B]: increase
+[C]: increasingly
+[D]: increased
+[KEY]: C
+[CATEGORY]: Từ loại (Trạng từ)
+[EXPLANATION]: Cần một trạng từ bổ nghĩa cho động từ V-ing "ordering". "increasingly ordering" (ngày càng đặt hàng nhiều).[cite: 5]
+[Q: 121]
+[PROMPT]: ------- construction in progress at the old town hall building, tourist groups will not be allowed to enter the site.[cite: 6]
+[A]: Now that
+[B]: While
+[C]: Even if
+[D]: Due to
+[KEY]: D
+[CATEGORY]: Giới từ
+[EXPLANATION]: "construction in progress" là một cụm danh từ. Chọn "Due to + Noun/V-ing" (Bởi vì).[cite: 6]
+[Q: 122]
+[PROMPT]: Several drilling-technology experts will present the results of their ------- on June 23.[cite: 6]
+[A]: comprehension
+[B]: resolution
+[C]: investigation
+[D]: specification
+[KEY]: C
+[CATEGORY]: Từ vựng (Danh từ)
+[EXPLANATION]: Dựa vào ngữ nghĩa, "results of their investigation" (kết quả cuộc điều tra/nghiên cứu của họ) là phù hợp nhất.[cite: 6]
+[Q: 123]
+[PROMPT]: The store had a ------- display to promote the newest book from the best-selling mystery author.[cite: 6]
+[A]: default
+[B]: grateful
+[C]: talented
+[D]: massive
+[KEY]: D
+[CATEGORY]: Từ vựng (Tính từ)
+[EXPLANATION]: Cần tính từ miêu tả danh từ "display" (khu trưng bày). "massive display" (khu trưng bày hoành tráng/lớn).[cite: 6]
+[Q: 124]
+[PROMPT]: Most of the people ------- attended yesterday's workshop have already submitted their feedback.[cite: 6]
+[A]: who
+[B]: those
+[C]: whose
+[D]: some
+[KEY]: A
+[CATEGORY]: Đại từ quan hệ
+[EXPLANATION]: Dùng đại từ quan hệ "who" thay thế cho danh từ chỉ người "people" đóng vai trò làm chủ ngữ cho động từ "attended".[cite: 6]
+[Q: 125]
+[PROMPT]: Both tasty and healthy, the tomato salad at Alfredi's Bistro is also large ------- to be served as a main dish.[cite: 6]
+[A]: enough
+[B]: fully
+[C]: nearly
+[D]: well
+[KEY]: A
+[CATEGORY]: Trạng từ
+[EXPLANATION]: Cấu trúc "Adj/Adv + enough + to V" (đủ lớn để được phục vụ như món chính).[cite: 6]
+[Q: 126]
+[PROMPT]: The Klassin Group's booth at the Liberty Architecture Expo has garnered much -------.[cite: 6]
+[A]: interest
+[B]: interests
+[C]: interested
+[D]: interesting
+[KEY]: A
+[CATEGORY]: Từ loại (Danh từ không đếm được)
+[EXPLANATION]: Sau lượng từ "much" cần một danh từ không đếm được. "interest" (sự quan tâm) thỏa mãn điều kiện này.[cite: 6]
+[Q: 127]
+[PROMPT]: Save 25 percent on any printer ------- you buy a laptop computer at Diego's Electronics.[cite: 6]
+[A]: whereas
+[B]: whenever
+[C]: such as
+[D]: seeing that
+[KEY]: B
+[CATEGORY]: Liên từ
+[EXPLANATION]: "whenever" mang nghĩa là bất cứ khi nào (tiết kiệm 25% bất cứ khi nào bạn mua một chiếc laptop).[cite: 6]
+[Q: 128]
+[PROMPT]: The recently adopted policy restructures the company's debt according to a ------- five-step plan.[cite: 6]
+[A]: managing
+[B]: manageably
+[C]: manages
+[D]: manageable
+[KEY]: D
+[CATEGORY]: Từ loại (Tính từ)
+[EXPLANATION]: Cần tính từ bổ nghĩa cho cụm danh từ "five-step plan". "manageable" (có thể quản lý được/vừa sức).[cite: 6]
+[Q: 129]
+[PROMPT]: The quality assurance department needs to hire additional staff ------- production has increased by 50 percent.[cite: 6]
+[A]: even though
+[B]: since
+[C]: because of
+[D]: therefore
+[KEY]: B
+[CATEGORY]: Liên từ
+[EXPLANATION]: Cần một liên từ nối 2 mệnh đề chỉ nguyên nhân - kết quả. "since" (bởi vì) đóng vai trò nối mệnh đề lý do.[cite: 6]
+[Q: 130]
+[PROMPT]: Your order cannot ------- until we have received full payment.[cite: 6]
+[A]: to process
+[B]: be processed
+[C]: being processed
+[D]: has processed
+[KEY]: B
+[CATEGORY]: Thể bị động
+[EXPLANATION]: Đơn hàng không thể tự xử lý, cần cấu trúc bị động sau động từ khuyết thiếu "cannot + be + V3/ed" (cannot be processed).[cite: 6]
+[PART 6]
+[PASSAGE_SET: 131-134]
+[DOC_TYPE]: Web page
+[TITLE]: Mester Movers Relocation
+[CONTENT]:
+Commercial relocation may at first appear [131], but Mester Movers will work with you to make the process as simple as possible. Whether you are relocating an office, factory, or laboratory across town or across the country, we have the people, technology, and resources to [132] your move with efficiency.
+We take special care when packing small and delicate objects. [133], we make sure that large items such as desks, filing cabinets, and chairs are also ready for the move by providing you with special tags. [134].[cite: 7]
+[Q: 131]
+[A]: complication
+[B]: complicated
+[C]: complicates
+[D]: complicate
+[KEY]: B
+[EXPLANATION]: Sau động từ liên kết (linking verb) "appear" cần một tính từ miêu tả trạng thái "complicated" (phức tạp).[cite: 7]
+[Q: 132]
+[A]: handling
+[B]: handled
+[C]: handle
+[D]: handles
+[KEY]: C
+[EXPLANATION]: Dựa vào cấu trúc "resources to + V(nguyên thể)", ta chọn "handle" (xử lý).[cite: 7]
+[Q: 133]
+[A]: Rather
+[B]: In brief
+[C]: In other words
+[D]: At the same time
+[KEY]: D
+[EXPLANATION]: Liên từ chỉ tính đồng thời "At the same time" (Đồng thời) nối ý với câu cẩn thận đóng gói đồ nhỏ gọn ở trước.[cite: 7]
+[Q: 134]
+[A]: Our Moving Guide will explain how to properly affix them.
+[B]: Your employer will tell you when the move will occur.
+[C]: We travel on back roads to get them moved quickly.
+[D]: We have a dozen moving trucks on our fleet.
+[KEY]: A
+[EXPLANATION]: Câu điền phù hợp ngữ cảnh nhất vì chứa đại từ "them" ám chỉ "special tags" (nhãn đặc biệt) ở câu ngay phía trước.[cite: 7]
+[PASSAGE_SET: 135-138]
+[DOC_TYPE]: Instructions
+[TITLE]: Purchase Order Guidelines
+[CONTENT]:
+Mapleshades Medical Center authorizes certain employees to purchase goods and services for company-related business. To purchase a [135] item or service, fill out the online request form. Use the form to [136] a description of the item needed. Also, briefly explain why the purchase is necessary. Note that your [137] may affect subsequent decisions. If the request entails replacing a device that is out of order, bring the matter to the attention of Mr. Rowen, head of the Maintenance Division, before submitting the request. [138]. Please direct any questions you may have related to the purchase of office supplies and equipment to the Purchasing Department.[cite: 8]
+[Q: 135]
+[A]: specify
+[B]: specific
+[C]: specifics
+[D]: specifically
+[KEY]: B
+[EXPLANATION]: Chỗ trống đứng trước danh từ "item" cần một tính từ bổ nghĩa -&gt; "specific item" (vật dụng cụ thể).[cite: 8]
+[Q: 136]
+[A]: view
+[B]: change
+[C]: provide
+[D]: find
+[KEY]: C
+[EXPLANATION]: Dựa vào cụm từ "provide a description" mang nghĩa là cung cấp mô tả.[cite: 8]
+[Q: 137]
+[A]: retirement
+[B]: score
+[C]: experience
+[D]: justification
+[KEY]: D
+[EXPLANATION]: Chọn danh từ "justification" (sự giải trình). Sự giải trình/lý do mua sắm của bạn sẽ ảnh hưởng đến quyết định phê duyệt sau này.[cite: 8]
+[Q: 138]
+[A]: He has studied all possible options in detail.
+[B]: He will determine whether such action is warranted.
+[C]: It has a staff of six who service our two office buildings.
+[D]: It is usually maintained on a monthly basis.
+[KEY]: B
+[EXPLANATION]: Đại từ "He" ở đáp án B thay thế hoàn hảo cho "Mr. Rowen" ở câu trước. Ông ấy sẽ là người quyết định xem việc thay thế thiết bị đó có chính đáng (warranted) hay không.[cite: 8]
+[PASSAGE_SET: 139-142]
+[DOC_TYPE]: Memo
+[TITLE]: Higwam workers to maintain C-level elevators
+[CONTENT]:
+From: Hong Kong Princess Center Administration
+To: All Princess Center residents
+Date: 17 October
+Subject: Higwam workers to maintain C-level elevators
+[139] the past week you may have experienced increased wait times for our C-level elevators, which service floors 25 through 36. We have contacted Higwam, our elevator maintenance contractor, who [140] repairs in the elevator shafts.
+This is to alert all residents that beginning tomorrow and through the end of the week, you are likely to see Higwam technicians working in the lobby. They are planning to work on one unit at a time in order to keep the others operational while repairs are in progress, so for the next few [141], there may continue to be prolonged wait times. [142].
+For any questions, please contact our office. We apologize for the inconvenience and appreciate your patience.[cite: 9]
+[Q: 139]
+[A]: Between
+[B]: After
+[C]: Over
+[D]: Inside
+[KEY]: C
+[EXPLANATION]: Giới từ "Over" kết hợp với "the past week" tạo thành cụm từ thời gian (Trong suốt tuần qua).[cite: 9]
+[Q: 140]
+[A]: was conducting
+[B]: will be conducting
+[C]: would conduct
+[D]: is now conducting
+[KEY]: D
+[EXPLANATION]: Thì hiện tại tiếp diễn "is now conducting" miêu tả hành động đang xảy ra (nhà thầu hiện đang tiến hành sửa chữa).[cite: 9]
+[Q: 141]
+[A]: hours
+[B]: days
+[C]: weeks
+[D]: months
+[KEY]: B
+[EXPLANATION]: Dựa vào ngữ cảnh "beginning tomorrow and through the end of the week" (bắt đầu từ ngày mai đến cuối tuần), khoảng thời gian được đề cập là "few days" (vài ngày tới).[cite: 9]
+[Q: 142]
+[A]: Alternatively, you may use the service elevator in the rear of the building.
+[B]: Complimentary refreshments will be available to the workers in the lobby.
+[C]: Elevator repairs can be costly, which is why we request your collaboration.
+[D]: Our B-level elevators suffered a service disruption last month as well.
+[KEY]: A
+[EXPLANATION]: Câu trước nói về "wait times" (thời gian chờ đợi dài), nên câu tiếp theo cung cấp phương án thay thế hợp lý "Alternatively, you may use the service elevator..." (Thay vào đó, bạn có thể dùng thang máy dịch vụ).[cite: 9]
+[PASSAGE_SET: 143-146]
+[DOC_TYPE]: Article
+[TITLE]: New Organic Wheat Variety
+[CONTENT]:
+DAKAR (August 4)—Nentique Laboratories, Inc., announced today the development of a new variety of organic wheat that [143] heat. Dozens of plants were cross-pollinated over many years to produce this variety, known as GR-712. It joins a growing list of [144] that can withstand high temperatures during extended dry periods. "Some farmers in regions close to the equator focus [145] on rice production because rice grows well in hot climates. But in the Sahara, it is too dry for much of the year," explains company spokesman Ahmad Niang. "But for a small investment in GR-712 seeds, farmers will now be able to grow wheat in our region." [146]. This added income can, in turn, be reinvested in better machinery, which will encourage more environmentally friendly farming practices.[cite: 10]
+[Q: 143]
+[A]: tolerates
+[B]: tolerable
+[C]: tolerate
+[D]: tolerating
+[KEY]: A
+[EXPLANATION]: Mệnh đề quan hệ "that..." cần một động từ chia theo danh từ số ít "variety". Động từ "tolerates" (chịu đựng được) là đáp án đúng.[cite: 10]
+[Q: 144]
+[A]: fuels
+[B]: materials
+[C]: vehicles
+[D]: crops
+[KEY]: D
+[EXPLANATION]: Lúa mì (wheat) là một loại cây trồng, nên nó tham gia vào danh sách các "crops" (cây trồng).[cite: 10]
+[Q: 145]
+[A]: exclude
+[B]: exclusion
+[C]: exclusive
+[D]: exclusively
+[KEY]: D
+[EXPLANATION]: Cần trạng từ bổ nghĩa cho động từ "focus" -&gt; "focus exclusively on" (tập trung độc quyền/hoàn toàn vào việc sản xuất lúa gạo).[cite: 10]
+[Q: 146]
+[A]: There is more rainfall in the region in August and September.
+[B]: Nentique believes diversification of this kind will lead to greater profits.
+[C]: A common name for the new species is yet to be determined.
+[D]: This merger will also help streamline Nentique's production process.
+[KEY]: B
+[EXPLANATION]: Câu đứng ngay sau đó có đề cập "This added income" (Nguồn thu nhập tăng thêm này). Vậy câu trống phải nhắc tới lợi nhuận -&gt; "greater profits" ở đáp án B là hoàn toàn khớp mạch văn.[cite: 10]
+[PART 7 - SINGLE]
+[PASSAGE_SET: 147-148]
+[DOC_1_TYPE]: Text-message chain
+[DOC_1_CONTENT]:
+Jane Equi [10:41 A.M.]
+Hi Mateo. Brian Jaffers just called to cancel tomorrow's walk-through at 721 Union Street.
+Mateo Rodriguez [10:42 A.M.]
+That's too bad. That apartment is just right for him. Did you reschedule?
+Jane Equi [10:44 A.M.]
+Yes, for Thursday, just before you show the Rockledge Place property to the Kim family. The two sites are very close to each other.
+Mateo Rodriguez [10:45 A.M.]
+Great. Could you please confirm the time with Ms. Kim today?
+Jane Equi [10:47 A.M.]
+Sure.[cite: 11]
+[Q: 147]
+[PROMPT]: Who most likely is Mr. Rodriguez?[cite: 11]
+[A]: A landscape designer
+[B]: An administrative assistant
+[C]: A human resources director
+[D]: A real estate agent
+[KEY]: D
+[EXPLANATION]: Dựa vào ngữ cảnh ông Rodriguez dẫn khách (gia đình Kim) đi xem bất động sản (Rockledge Place property), ông ấy làm nghề môi giới bất động sản.[cite: 11]
+[Q: 148]
+[PROMPT]: At 10:45 A.M., what does Mr. Rodriguez most likely mean when he writes, "Great"?[cite: 11]
+[A]: He is excited about the results of his work.
+[B]: He is glad about his company's new location.
+[C]: He is pleased with Ms. Equi's work.
+[D]: He is interested in contacting Mr. Jaffers.
+[KEY]: C
+[EXPLANATION]: Ông ấy hài lòng vì cô Equi đã sắp xếp lại lịch hẹn vào thứ Năm tại một địa điểm rất gần với nơi ông ấy có lịch trình khác.[cite: 11]
+[PASSAGE_SET: 149-150]
+[DOC_1_TYPE]: Notice
+[DOC_1_CONTENT]:
+Wallaby Decking
+Serving Queensland and Beyond
+Congratulations on your new timber deck! Follow these tips to keep it in top shape for years to come.
+- Apply a coat of UV sealant annually to shield the deck from the effects of moisture and heat.
+- Keep the gaps between boards free of dirt and debris. Air must flow around and between the boards to prevent moisture buildup.
+- Wash the deck periodically. Use a soft-bristled brush, a hose, and a chemical-free detergent to clean away dirt without removing the finish.
+- Avoid water stains and mildew. Do not allow potted plants or other large, heavy objects to rest directly on the surface of the deck.[cite: 12]
+[Q: 149]
+[PROMPT]: What is indicated about the boards?[cite: 12]
+[A]: They should be installed in shady areas.
+[B]: They are waterproof.
+[C]: They have space between them.
+[D]: They are sold only in Queensland.
+[KEY]: C
+[EXPLANATION]: Dựa vào thông tin "Keep the gaps between boards free of dirt" (Giữ sạch các khoảng trống giữa các tấm ván) -&gt; Chứng tỏ các tấm ván có khoảng trống ở giữa.[cite: 12]
+[Q: 150]
+[PROMPT]: What is NOT mentioned as a tip for deck maintenance?[cite: 12]
+[A]: Applying a weather-resistant coating
+[B]: Cleaning the surface regularly
+[C]: Removing stains with a chemical cleaner
+[D]: Keeping plants off the surface
+[KEY]: C
+[EXPLANATION]: Bài đọc khuyến nghị "use a chemical-free detergent" (chất tẩy rửa KHÔNG chứa hóa chất). Nên việc dùng chất tẩy rửa hóa học (chemical cleaner) là không đúng.[cite: 12]
+[PASSAGE_SET: 151-152]
+[DOC_1_TYPE]: Article
+[DOC_1_CONTENT]:
+Hapkell Industries Pairs Up with E&amp;T Recycling Center
+June 19—The computer technology company Hapkell Industries just announced it will begin working with E&amp;T Recycling Centers. This partnership will enable consumers to responsibly recycle computer equipment, at no personal cost, simply by taking it to a collection center.
+"Used computers make up a rapidly growing waste source," said CEO Indira Kapoor. "As a major producer of computer products, we believe it is our obligation to reuse what we can and keep heavy metals out of the landfills. This is what prompted us to go forward with this initiative."
+Hapkell Industries originally sponsored two pilot E&amp;T collection sites and, given their success, aims to add ten more sites by year's end. To learn more about the initiative and for a map of current and proposed collection sites, visit ETrecyclingcenter.com.[cite: 13]
+[Q: 151]
+[PROMPT]: According to Ms. Kapoor, why did her company partner with a recycling firm?[cite: 13]
+[A]: To manufacture more affordable computer products
+[B]: To follow a government environmental policy
+[C]: To meet a responsibility as an industry leader
+[D]: To pursue a rewarding financial opportunity
+[KEY]: C
+[EXPLANATION]: CEO cho biết "As a major producer of computer products, we believe it is our obligation..." (Là một nhà sản xuất lớn, chúng tôi tin rằng đó là nghĩa vụ của mình).[cite: 13]
+[Q: 152]
+[PROMPT]: What is stated about collection sites?[cite: 13]
+[A]: They are not getting as much use as expected.
+[B]: They are no longer accepting volunteers.
+[C]: Their sanitary requirements are very strict.
+[D]: Their locations can be found on an online map.
+[KEY]: D
+[EXPLANATION]: Thông tin ở câu cuối "for a map of current and proposed collection sites, visit ETrecyclingcenter.com" (có thể xem bản đồ trực tuyến).[cite: 13]
+[PASSAGE_SET: 153-154]
+[DOC_1_TYPE]: E-mail
+[DOC_1_CONTENT]:
+To: Stan Anyati
+From: Stella Gerraldi
+Date: May 1
+Subject: Café Marti
+Dear Stan,
+I called your shop yesterday and spoke with Andre about my vintage espresso maker. I was surprised that he was able to find replacement parts for such an old machine. He also re-created some parts that are no longer made. Apparently, there is a brass holder for the manufacturer's nameplate that has not yet arrived from Italy. Once that arrives, the restoration can be completed.
+As we discussed earlier, I need the machine delivered by May 7. On May 8 we will celebrate the tenth anniversary of the café's opening. The espresso machine has always been our centerpiece. We use it on all our advertising. Even without the nameplate, I need to have this vintage machine working for our celebrations.
+Regards,
+Stella[cite: 14]
+[Q: 153]
+[PROMPT]: What is indicated about the espresso machine?[cite: 14]
+[A]: It is a symbol of the Café Marti.
+[B]: It has never worked very well.
+[C]: It was designed by Stan Anyati.
+[D]: It is ten years old.
+[KEY]: A
+[EXPLANATION]: Tác giả viết "The espresso machine has always been our centerpiece. We use it on all our advertising" -&gt; Nó là biểu tượng/trung tâm của quán.[cite: 14]
+[Q: 154]
+[PROMPT]: What is suggested about the brass holder?[cite: 14]
+[A]: It has been redesigned.
+[B]: It will need to be re-created.
+[C]: The machine can function without it.
+[D]: The manufacturer in Italy sent it to the wrong address.
+[KEY]: C
+[EXPLANATION]: Đoạn cuối nhấn mạnh "Even without the nameplate, I need to have this vintage machine working" (Ngay cả khi không có bảng tên đó, máy vẫn phải hoạt động).[cite: 14]
+[PASSAGE_SET: 155-157]
+[DOC_1_TYPE]: E-mail
+[DOC_1_CONTENT]:
+To: Department Managers
+From: Margaret Langley
+Date: December 27
+Subject: Extended-absence greeting
+Attachment: Sample message #5
+Dear Managers,
+In preparation for the upcoming holiday when offices will be closed, I'd like to remind you that company policy requires each of our departments to replace the traditional greeting on their voice messaging systems with an extended-absence greeting that will play next week when callers are diverted to voice mail. This will involve making a new recording, saving it to the system, and programming the system to activate the recording at the close of our business day on Friday. Once you activate the extended-absence greeting, it will override the traditional greeting through the holiday.
+The attached document contains the text of the greeting you should record. This is the same text we have used in the past, but as usual, the dates have been changed to reflect the current closure. Please use this document to record your holiday greeting. Make sure you activate it before you leave for the day on Friday.[cite: 15]
+[Q: 155]
+[PROMPT]: What is the subject of the e-mail?[cite: 15]
+[A]: A newly established company policy
+[B]: An improved way to access voice mail
+[C]: A procedure related to a holiday closing
+[D]: A change to the traditional shift schedule
+[KEY]: C
+[EXPLANATION]: Email nói về thủ tục thay đổi lời chào hộp thư thoại trong dịp văn phòng đóng cửa nghỉ lễ ("holiday when offices will be closed").[cite: 15]
+[Q: 156]
+[PROMPT]: What is included as an attachment?[cite: 15]
+[A]: A script to be read aloud
+[B]: A flyer announcing a company event
+[C]: Instructions for installing a new phone
+[D]: Transcripts of recorded customer calls
+[KEY]: A
+[EXPLANATION]: Tài liệu đính kèm chứa "text of the greeting you should record" (văn bản/kịch bản lời chào mà các quản lý cần đọc để ghi âm lại).[cite: 15]
+[Q: 157]
+[PROMPT]: What is indicated in the e-mail about the attached document?[cite: 15]
+[A]: It is ready for publication.
+[B]: It is distributed annually.
+[C]: It is handed out to customers.
+[D]: It is intended only for new employees.
+[KEY]: B
+[EXPLANATION]: "This is the same text we have used in the past, but as usual, the dates have been changed" -&gt; Cho thấy văn bản này được phát hành định kỳ (hàng năm vào dịp lễ).[cite: 15]
+[PASSAGE_SET: 158-160]
+[DOC_1_TYPE]: Notice
+[DOC_1_CONTENT]:
+Kimfor Marketing Solutions
+Thank you for your purchase of Kimfor Marketing Solutions e-mail software. We are confident that this product will help you to develop your business.
+As an added bonus, we are pleased to announce that free training is offered for all of our products. These short but effective online seminars are a great opportunity for businesses that are new to our products to ensure that they are utilizing the software to its full potential.
+Our instructors are professionals who have used our tools to grow their own businesses. For more information and to make a reservation for a seminar, please visit our Web site at kimformarketingsolutions.com/seminarsignup.[cite: 16]
+[Q: 158]
+[PROMPT]: What is one purpose of the notice?[cite: 16]
+[A]: To inform customers about a service
+[B]: To discuss a new product line
+[C]: To introduce a marketing instructor
+[D]: To remind customers of an upcoming deadline
+[KEY]: A
+[EXPLANATION]: Thông báo cung cấp thông tin về dịch vụ "free training" (các hội thảo trực tuyến đào tạo miễn phí cho người dùng).[cite: 16]
+[Q: 159]
+[PROMPT]: According to the notice, what qualification do instructors share?[cite: 16]
+[A]: They have worked for the company for many years.
+[B]: They are experienced users of the e-mail software.
+[C]: They participated in designing the software.
+[D]: They work in the marketing department.
+[KEY]: B
+[EXPLANATION]: "Our instructors are professionals who have used our tools..." (Họ đều là những người chuyên nghiệp từng sử dụng công cụ của chúng tôi).[cite: 16]
+[Q: 160]
+[PROMPT]: The word "grow" in paragraph 3, line 1, is closest in meaning to[cite: 16]
+[A]: become
+[B]: expand
+[C]: produce
+[D]: move
+[KEY]: B
+[EXPLANATION]: "grow their own businesses" (phát triển/mở rộng doanh nghiệp). Đồng nghĩa với từ "expand".[cite: 16]
+[PASSAGE_SET: 161-163]
+[DOC_1_TYPE]: Article
+[DOC_1_CONTENT]:
+Chef and lifestyle coach Lana Watson has announced her first foray into cosmetics with the launch of a new skin care business. Her Summer Garden skin care line consists solely of products made from organic ingredients and features extracts from plants, fruits, and vegetables. [1].
+"I've always served the healthiest possible food in my restaurant," said Ms. Watson. "Natural ingredients nourish our health and beauty from the inside out. [2]. My skin care line utilizes only the vitamins and proteins in foods, such as spinach and cucumber, and combines them to create powerful moisturizers and cleansers that are free from artificial chemicals. [3]."
+Summer Garden products are suitable for those with dry, sensitive, or combination skin and will be available online and at select retail stores beginning this September. [4].[cite: 17]
+[Q: 161]
+[PROMPT]: What is the article mainly about?[cite: 17]
+[A]: Local organic farms
+[B]: Online shopping trends
+[C]: A new business venture
+[D]: A company merger
+[KEY]: C
+[EXPLANATION]: Bài viết về nữ đầu bếp Lana Watson vừa lấn sân kinh doanh dòng sản phẩm chăm sóc da mới (a new business venture).[cite: 17]
+[Q: 162]
+[PROMPT]: What is indicated about Summer Garden products?[cite: 17]
+[A]: They are suitable for all ages.
+[B]: They are available for purchase now.
+[C]: They are relatively inexpensive.
+[D]: They contain no artificial ingredients.
+[KEY]: D
+[EXPLANATION]: "products made from organic ingredients" và "free from artificial chemicals" (không chứa hóa chất nhân tạo).[cite: 17]
+[Q: 163]
+[PROMPT]: In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong?
+"It seemed logical to then create products to nurture our skin from the outside in."[cite: 17]
+[A]: [1]
+[B]: [2]
+[C]: [3]
+[D]: [4]
+[KEY]: B
+[EXPLANATION]: Vị trí [2] là hợp lý nhất để tạo sự đối xứng với câu phía trước: "nourish our health and beauty from the inside out" (nuôi dưỡng từ trong ra ngoài) -&gt; "nurture our skin from the outside in" (nuôi dưỡng từ ngoài vào trong).[cite: 17]
+[PASSAGE_SET: 164-167]
+[DOC_1_TYPE]: Online chat discussion
+[DOC_1_CONTENT]:
+Maria Zuccarini [5:30 P.M.] Hi. This is my first time using the Dubonville community chat room. Do any neighbors have experience laying a ceramic tile floor?
+Yuqiu Wang [5:35 P.M.] Hi, Maria. Are you looking to do it yourself? I put in a tile floor in my kitchen last year and did all the work myself. I regret my decision, though.
+Maria Zuccarini [5:37 P.M.] I want to save money, so I'd rather not hire a professional. But I've never done a project like this on my own before.
+Dennis Gurka [5:41 P.M.] People who are comfortable with home repairs can lay tile flooring if they watch videos or attend a class. But it does take effort, time, and precision.
+Yuqiu Wang [5:44 P.M.] In my case, I had helped a friend with a tiling project prior to working on my own kitchen. I also watched several videos on myhomefix.com before getting started. In the future, I'd get professional help, though.
+Yuqiu Wang [5:45 P.M.] Dennis, do you have experience in this area? Do you think Maria could tackle this project without a professional?
+Maria Zuccarini [5:51 P.M.] Interesting. Thanks for sharing your experience.
+Dennis Gurka [5:58 P.M.] I have my own flooring business. Whether she can depends on several factors. Maria, will you need to cut the tile, install a drain, or flatten an uneven floor?
+Maria Zuccarini [6:06 P.M.] I just need to replace a few broken tiles, but I suspect this is not a job for an amateur. Dennis, is the business in Dubonville? Could you send me your contact information?
+Dennis Gurka [6:07 P.M.] It's just outside the city limits. It's called Floors Forever. The phone is 642-555-0143.[cite: 18, 19]
+[Q: 164]
+[PROMPT]: For whom is the chat room intended?[cite: 19]
+[A]: People who live in the same town
+[B]: People who attend the same online class
+[C]: People who work together for a large company
+[D]: People who are planning a trip together
+[KEY]: A
+[EXPLANATION]: Phòng chat của "Dubonville community", những người nói chuyện xưng hô là "neighbors" (những người hàng xóm cùng 1 thị trấn).[cite: 18]
+[Q: 165]
+[PROMPT]: At 5:35 P.M., what does Ms. Wang most likely mean when she writes, "I regret my decision, though"?[cite: 19]
+[A]: She did not end up saving money.
+[B]: She should have hired a professional.
+[C]: She would have preferred different tiles.
+[D]: She did not need to remodel her kitchen.
+[KEY]: B
+[EXPLANATION]: Cô Wang tự làm và hối hận vì mất nhiều công sức, sau đó cô nói "In the future, I'd get professional help" -&gt; Lẽ ra cô nên thuê thợ chuyên nghiệp.[cite: 18]
+[Q: 166]
+[PROMPT]: What is probably true about Mr. Gurka?[cite: 19]
+[A]: He is Ms. Zuccarini's coworker.
+[B]: He has broken tiles in his home.
+[C]: He has a lot of experience laying tiles.
+[D]: He is taking a class at myhomefix.com.
+[KEY]: C
+[EXPLANATION]: Ông Gurka sở hữu một công ty lát sàn riêng ("I have my own flooring business"), nên ông ấy có rất nhiều kinh nghiệm.[cite: 18]
+[Q: 167]
+[PROMPT]: What will Ms. Zuccarini most likely do next?[cite: 19]
+[A]: Go shopping for ceramic tiles
+[B]: Search for a video on laying tiles
+[C]: Return a box of broken tiles
+[D]: Contact a business near Dubonville
+[KEY]: D
+[EXPLANATION]: Cô Zuccarini xin thông tin liên hệ và ông Gurka đã để lại số điện thoại công ty lát sàn của ông. Do đó cô ấy sẽ liên hệ công ty này.[cite: 18]
+[PASSAGE_SET: 168-171]
+[DOC_1_TYPE]: E-mail
+[DOC_1_CONTENT]:
+To: nora.simmons@heltlx.edu
+From: e.agbayani@periodicalquest.com
+Date: February 28
+Subject: Periodical Quest
+Dear Ms. Simmons,
+This is a courtesy message to inform you that your monthly Periodical Quest membership fee for March could not be processed due to an expired credit card. To avoid any service disruptions, please visit periodicalquest.com/useraccount and update your billing information. If you have any difficulties, I will be happy to take you through the process.
+Incidentally, while reviewing your account I noticed that you are not using our full range of services. As a member, you have unlimited online access to our library of over 3,000 journals, newspapers, and magazines. Additionally, as a professor you can also benefit from our resources for teaching and research purposes. It would seem that you did not complete your member profile when you signed up for our service four months ago. Please take a moment to review your member preferences. We want to make sure that you are taking advantage of all that Periodical Quest has to offer.
+Feel free to contact me if you have any questions regarding your account. If you wish to cancel your membership, no further action is required.
+Sincerely,
+Elena Agbayani
+Periodical Quest[cite: 20]
+[Q: 168]
+[PROMPT]: Why was Ms. Simmons contacted?[cite: 21]
+[A]: A new service is now available.
+[B]: A payment was not processed.
+[C]: An order will be delivered soon.
+[D]: An article needs to be revised.
+[KEY]: B
+[EXPLANATION]: "membership fee for March could not be processed due to an expired credit card" (phí thành viên không thể xử lý do thẻ tín dụng hết hạn).[cite: 20]
+[Q: 169]
+[PROMPT]: What is indicated about Periodical Quest?[cite: 21]
+[A]: It charges a monthly fee.
+[B]: It has just doubled its journal collection.
+[C]: Its Web site is easy to navigate.
+[D]: Its customer support team is available 24 hours a day.
+[KEY]: A
+[EXPLANATION]: Thông báo nhắc nhở về khoản "monthly Periodical Quest membership fee" (phí thành viên hàng tháng).[cite: 20]
+[Q: 170]
+[PROMPT]: What is indicated about Ms. Simmons?[cite: 21]
+[A]: She works in the field of education.
+[B]: She recently e-mailed customer service.
+[C]: She has been a Periodical Quest member for many years.
+[D]: She intends to cancel her Periodical Quest membership.
+[KEY]: A
+[EXPLANATION]: Email gọi cô là "professor" (giáo sư) và địa chỉ email của cô có đuôi .edu -&gt; Cô làm trong lĩnh vực giáo dục.[cite: 20]
+[Q: 171]
+[PROMPT]: Who most likely is Ms. Agbayani?[cite: 21]
+[A]: A magazine editor
+[B]: A bank representative
+[C]: A computer programmer
+[D]: An accounts manager
+[KEY]: D
+[EXPLANATION]: Cô Agbayani là người quản lý, hỗ trợ các vấn đề về tài khoản và thanh toán cho khách hàng (Accounts manager).[cite: 20]
+[PASSAGE_SET: 172-175]
+[DOC_1_TYPE]: Web page
+[DOC_1_CONTENT]:
+http://www.torontoconstructionshow.ca/magazine
+Home | Annual Show | Magazine | Frequently Asked Questions
+Cement &amp; Construction Monthly is produced by the organizers of the Toronto Construction Show. It is published online each month. There is also a special Annual Show print edition. [1].
+Cement &amp; Construction Monthly offers a mix of industry news, product reviews, and trade show information. [2]. Entertaining monthly columns cover everything from job advice to advertising strategies.
+This year Cement &amp; Construction Monthly is beginning a mission to demonstrate our high esteem for mentors in the industry. We are asking members to nominate individuals who have excelled in a mentoring role. [3]. See the link below for information on how to nominate someone. After reviewing the nominations, we will select the top five mentors of the year. These winners will receive a special award at the Toronto Construction Show on November 3. [4]. Their profiles and photos will appear in the December edition of Cement &amp; Construction Monthly.
+Nomination form | Links | Current year issues | Archive (old issues)[cite: 22]
+[Q: 172]
+[PROMPT]: What is a purpose of the Web page?[cite: 23]
+[A]: To explain a registration process
+[B]: To update a convention schedule
+[C]: To review a product
+[D]: To promote a trade publication
+[KEY]: D
+[EXPLANATION]: Trang web này giới thiệu và quảng bá về "Cement &amp; Construction Monthly", một ấn phẩm/tạp chí thương mại của ngành xây dựng.[cite: 22]
+[Q: 173]
+[PROMPT]: What new feature is being announced?[cite: 23]
+[A]: A plan to honor mentors
+[B]: An online discussion forum
+[C]: On-site job interviews
+[D]: Monthly advice columns
+[KEY]: A
+[EXPLANATION]: "beginning a mission to demonstrate our high esteem for mentors" -&gt; Một kế hoạch đề cử và vinh danh những người hướng dẫn (mentors) xuất sắc.[cite: 22]
+[Q: 174]
+[PROMPT]: What will happen on November 3?[cite: 23]
+[A]: A special news report will be shown.
+[B]: Awards will be given out.
+[C]: Election results will be published.
+[D]: A photo collection will be displayed.
+[KEY]: B
+[EXPLANATION]: Vào ngày 3/11, những người chiến thắng sẽ "receive a special award" (được trao giải thưởng đặc biệt).[cite: 22]
+[Q: 175]
+[PROMPT]: In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong?
+"This is distributed to all registered visitors to the show."[cite: 23]
+[A]: [1]
+[B]: [2]
+[C]: [3]
+[D]: [4]
+[KEY]: A
+[EXPLANATION]: Câu đứng trước vị trí [1] nhắc đến "a special Annual Show print edition" (ấn bản in đặc biệt cho triển lãm), đại từ "This" đóng vai trò thay thế cho ấn bản này.[cite: 22]
+[PART 7 - DOUBLE]
+[PASSAGE_SET: 176-180]
+[DOC_1_TYPE]: Form (Exhibitor Application)
+[DOC_1_CONTENT]:
+62nd Annual Samsville Home and Garden Show
+March 31 to April 2, Samsville Conference Pavilion
+Exhibitor Application
+Company name: Castillo Landscape Design
+Contact name: Valia Castillo
+Phone: 302-555-0198
+E-mail: vcastillo@castillold.com
+Web site: www.castillold.com
+Items/services to be exhibited:
+I will display photographs, plans, and models of available outdoor design services that my company offers.
+Additional information or requests:
+I would like to request a second parking pass since one of my employees will also be attending and helping to transport materials.
+NOTE: This application is not a contract and does not guarantee a booth at the show. Space is available on a first-come basis. Once your completed application is received, a coordinator will contact you within five business days to finalize your reservation and payment. Discounts for members of Samsville Home and Garden will be automatically applied at the time of payment. Any questions can be directed to our exhibition organizer, Ms. Faye Li, at fli@samsvillehg.org. All applications are due by January 31.[cite: 24]
+[DOC_2_TYPE]: E-mail
+[DOC_2_CONTENT]:
+To: vcastillo@castillold.com
+From: rconway@samsvillehg.org
+Date: February 1
+Subject: Home and Garden Show
+Attachment: Contract and Invoice
+Dear Ms. Castillo:
+We have received your exhibitor application for the 62nd Annual Samsville Home and Garden Show. I am attaching your contract for a booth space and your invoice at the discounted member rate. Please return a signed copy of your contract by February 10.
+Your reservation includes one walled booth with an electrical outlet, exhibitor ID tags for you and a colleague, and two parking passes, as your request for a second parking pass was approved. Passes are typically limited to one per booth but we will make an exception in this case, as you are a longtime member and exhibitor at our event.
+We appreciate your continued participation and support.
+Regards,
+Rylan Conway, Vendor Coordinator
+Samsville Home and Garden[cite: 24]
+[Q: 176]
+[PROMPT]: What is Ms. Castillo planning to bring to the show?[cite: 25]
+[A]: Pictures of gardens
+[B]: Sample trees and plants
+[C]: Sample project estimates
+[D]: Gardening tools
+[KEY]: A
+[EXPLANATION]: Cô ấy ghi trên đơn (DOC 1) rằng: "I will display photographs..." (sẽ trưng bày các bức ảnh về thiết kế ngoài trời).[cite: 24]
+[Q: 177]
+[PROMPT]: What is typically included in a booth reservation?[cite: 25]
+[A]: An exhibitor sign
+[B]: A parking permit
+[C]: An annual membership
+[D]: A directory of local vendors
+[KEY]: B
+[EXPLANATION]: Trong email (DOC 2) có nhắc: "Passes are typically limited to one per booth..." (Thường thì chỉ có 1 thẻ đỗ xe (parking pass) cho mỗi gian hàng).[cite: 24]
+[Q: 178]
+[PROMPT]: When did Ms. Castillo most likely submit her application?[cite: 25]
+[A]: In January
+[B]: In February
+[C]: In March
+[D]: In April
+[KEY]: A
+[EXPLANATION]: Hạn nộp đơn chót là "January 31" (DOC 1) và ông Conway gửi email xác nhận đã nhận được đơn vào ngày "February 1" (DOC 2) -&gt; Cô ấy đã nộp trong tháng 1.[cite: 24]
+[Q: 179]
+[PROMPT]: What is suggested about Ms. Castillo?[cite: 25]
+[A]: She works at Samsville Home and Garden.
+[B]: She has lived in Samsville for ten years.
+[C]: She requested an additional electrical outlet.
+[D]: She will pay a reduced price for her booth space.
+[KEY]: D
+[EXPLANATION]: Email (DOC 2) ghi: "your invoice at the discounted member rate" (hóa đơn của bạn ở mức giá thành viên được giảm giá).[cite: 24]
+[Q: 180]
+[PROMPT]: Why does Mr. Conway make an exception for Ms. Castillo?[cite: 25]
+[A]: She is a past organizer for the event.
+[B]: She often participates in the show.
+[C]: She agreed to pay an extra fee.
+[D]: She submitted a very strong application.
+[KEY]: B
+[EXPLANATION]: Ông cho cô ấy 2 thẻ đỗ xe (là một ngoại lệ) vì cô ấy là "a longtime member and exhibitor at our event" (thành viên và người trưng bày lâu năm).[cite: 24]
+[PASSAGE_SET: 181-185]
+[DOC_1_TYPE]: Web page
+[DOC_1_CONTENT]:
+http://www.projectelements.com
+Home | Team Plans | About Us | Resources | FAQ
+All of your project management needs—All in one place—All online.
+Project Elements LLC develops project management software for use in companies both small and large. Our proprietary software will serve you from start to finish, helping your teams to communicate, schedule, and manage information.
+Team Basic
+Get your team of five started with our Basic solution. Task management, file sharing, and mobile accessibility will be at your fingertips. Add 100 GB of online data storage space in the cloud for a small additional fee.
+Team Creative
+This option is the best solution for small teams of up to 35 creative professionals. In addition to all the Team Basic features, get video editing tools, graphic design software, and 300 GB of cloud storage for all of your design needs.
+Team Player
+Teams of up to 50 excel with this enhanced service. Get all the features of Team Basic, plus timelines, advanced integration with second-party platforms, and up to 400 GB of cloud space for your team.
+Team Leader
+This option is best for teams of up to 100. Get all of the features of Team Player, plus enhanced options for personalization, resource tracking, time tracking, 500 GB of cloud space, and fast video uploads for a seamless team experience.
+Need more convincing? We were recognized for our software quality with the Gold Star Start-Up Awards by Work Winner Magazine two years in a row. To hear more about Project Elements success stories, check out our client testimonials in the About Us tab.[cite: 26]
+[DOC_2_TYPE]: E-mail
+[DOC_2_CONTENT]:
+To: ebennis@projectelements.com
+From: jasbury@clarelcommunications.com
+Subject: Project Elements Upgrade
+Date: December 5
+Dear Mr. Bennis,
+I am the new director of digital advertising for Clarel Communications. Robert Roust, the former director, told me how valuable the Project Elements platform has been, and I want to explore with you a potential change in Clarel's current plan. We are presently a team of 45 but anticipate growing to 55 members over the next year. The team likes the storage feature, but they would be interested in a plan with more than 400 GB and better personalization options. Is there a plan that will fit our needs?
+Looking forward to hearing from you,
+Julia Asbury
+Director of Digital Advertising
+Clarel Communications[cite: 26]
+[Q: 181]
+[PROMPT]: How would Project Elements software most likely be used?[cite: 27]
+[A]: For ordering products online
+[B]: For working together as a team
+[C]: For training new managers
+[D]: For monitoring social media posts
+[KEY]: B
+[EXPLANATION]: Phần mềm này giúp "helping your teams to communicate, schedule, and manage information" (giúp các nhóm giao tiếp, lên lịch và quản lý công việc chung).[cite: 26]
+[Q: 182]
+[PROMPT]: What is true about Project Elements LLC?[cite: 27]
+[A]: It has received an industry award.
+[B]: It has been in business for over ten years.
+[C]: It purchased Clarel Communications.
+[D]: It publishes a technology magazine.
+[KEY]: A
+[EXPLANATION]: Dựa vào thông tin "We were recognized for our software quality with the Gold Star Start-Up Awards" (nhận giải thưởng phần mềm khởi nghiệp).[cite: 26]
+[Q: 183]
+[PROMPT]: Why was the e-mail sent?[cite: 27]
+[A]: To register a product
+[B]: To request technical help with a product
+[C]: To explain a product registration issue
+[D]: To seek advice in choosing a product
+[KEY]: D
+[EXPLANATION]: Khách hàng viết email để hỏi về các gói phần mềm, xem có gói nào "fit our needs" (phù hợp với nhu cầu) của họ khi mở rộng số lượng thành viên hay không.[cite: 26]
+[Q: 184]
+[PROMPT]: Which product will Mr. Bennis probably recommend?[cite: 27]
+[A]: Team Basic
+[B]: Team Creative
+[C]: Team Player
+[D]: Team Leader
+[KEY]: D
+[EXPLANATION]: Nhóm của khách hàng đang dự kiến mở rộng lên 55 thành viên và cần dung lượng lớn hơn 400GB. Gói "Team Leader" đáp ứng 100 thành viên và 500GB lưu trữ, nên đây là lựa chọn phù hợp nhất.[cite: 26]
+[Q: 185]
+[PROMPT]: In the e-mail, the word "fit" in paragraph 1, line 6, is closest in meaning to[cite: 27]
+[A]: match
+[B]: agree to
+[C]: rely on
+[D]: adjust
+[KEY]: A
+[EXPLANATION]: "fit our needs" (đáp ứng/phù hợp với nhu cầu). Đồng nghĩa với từ "match".[cite: 26]
+[PART 7 - TRIPLE]
+[PASSAGE_SET: 186-190]
+[DOC_1_TYPE]: Advertisement
+[DOC_1_CONTENT]:
+Ride-Away Vehicles Summer Special
+Save 15 percent off our rates* during the month of July for travel within Ireland.
+Compact Car €21
+Standard Car €32
+Full-Size Sedan €46
+Van €52
+Call 020 917 1212 or book online at www.ride-awayvehicles.co.ie.
+*Price advertised is the daily rate for eligible drivers, inclusive of value-added tax (VAT) and the basic protection plan. Additional fees may apply. Please contact a Ride-Away Vehicles representative for more information.[cite: 28]
+[DOC_2_TYPE]: E-mail
+[DOC_2_CONTENT]:
+To: yayoiadachi@jrengineering.co.jp
+From: info@rideawayvehicles.co.ie
+Date: 14 July
+Subject: Reservation confirmation #122055
+Dear Ms. Adachi,
+Your car rental reservation is confirmed. Here are the details per the terms of your rental:
+Pickup: 21 July, 9:00 A.M. at Ride-Away Vehicles, Shannon Airport, Shannon, Ireland
+Drop-Off: 29 July, 5:00 P.M. at Ride-Away Vehicles, Cork City Centre, Cork City, Ireland
+Rate: €21/day X 8 days = €168 (includes unlimited mileage and navigational system/GPS)
+Model: Colaba Seasider or similar
+Important Information: The driver must present a valid driving licence at pickup. Additional charges may apply for any changes to the reservation, including changes to the pickup or drop-off date, time, or location. A €25 service fee will be assessed for vehicles returned without a full tank of petrol in addition to the cost of fuel.
+Thank you for choosing Ride-Away Vehicles. Please call 020 917 1212 with any questions.[cite: 28]
+[DOC_3_TYPE]: Form (Return Form)
+[DOC_3_CONTENT]:
+Ride-Away Vehicles Return Form
+Driver Name: Yayoi Adachi
+Model/Number Plate: Colaba Seasider, 161-C-45329
+Completed By: Henry Riordan, Assistant Manager, Cork City Centre location
+Date/Time of Return: 29 July, 4:40 P.M.
+Condition of Vehicle: No damage
+Odometer Reading: 33,763 kilometers
+Gas Tank: Half full
+Driver's Signature: Yayoi Adachi[cite: 29]
+[Q: 186]
+[PROMPT]: What is Ride-Away Vehicles advertising?[cite: 29]
+[A]: A free day of rental
+[B]: A reduced daily rate
+[C]: A free upgrade to a larger vehicle
+[D]: A waiver of additional fees
+[KEY]: B
+[EXPLANATION]: Bảng quảng cáo (DOC 1) chạy chương trình "Save 15 percent off our rates..." (Giảm giá 15% cho giá thuê hàng ngày trong tháng 7).[cite: 28]
+[Q: 187]
+[PROMPT]: What will happen on July 21?[cite: 29]
+[A]: A promotion period will end.
+[B]: A confirmation will be sent.
+[C]: Ms. Adachi will be at Shannon Airport.
+[D]: Ms. Adachi will add a driver to her contract.
+[KEY]: C
+[EXPLANATION]: Email (DOC 2) ghi "Pickup: 21 July, 9:00 A.M. at Ride-Away Vehicles, Shannon Airport" -&gt; Cô Adachi sẽ đến sân bay Shannon để nhận xe.[cite: 28]
+[Q: 188]
+[PROMPT]: What does the e-mail indicate about Ride-Away Vehicles?[cite: 29]
+[A]: They operate from multiple locations.
+[B]: They charge a fee for the use of a GPS.
+[C]: They apply a discount on rentals one week or longer.
+[D]: They receive payment before confirming a reservation.
+[KEY]: A
+[EXPLANATION]: Thông tin thuê xe ở "Shannon Airport" và trả xe ở một điểm khác là "Cork City Centre" chứng tỏ công ty này có nhiều chi nhánh.[cite: 28]
+[Q: 189]
+[PROMPT]: What type of vehicle did Ms. Adachi rent?[cite: 29]
+[A]: A compact car
+[B]: A standard car
+[C]: A full-size sedan
+[D]: A van
+[KEY]: A
+[EXPLANATION]: Giá thuê trên email xác nhận là €21/ngày. Đối chiếu lên bảng quảng cáo, mức giá €21 tương ứng với dòng "Compact Car".[cite: 28]
+[Q: 190]
+[PROMPT]: What is suggested about Ms. Adachi?[cite: 29]
+[A]: She did not receive a GPS.
+[B]: She returned her car late.
+[C]: She did not get the car she requested.
+[D]: She will be charged a €25 service fee.
+[KEY]: D
+[EXPLANATION]: Form trả xe (DOC 3) ghi nhận "Gas Tank: Half full" (Bình xăng chỉ còn một nửa). Theo điều khoản trong email (DOC 2), xe trả không đầy bình xăng sẽ bị phạt €25 service fee.[cite: 28, 29]
+[PASSAGE_SET: 191-195]
+[DOC_1_TYPE]: Product description
+[DOC_1_CONTENT]:
+http://www.stylero.com/printers/RD525
+Home | Computers | Printers | Ink &amp; Toner Accessories | Support
+Product: Stylero RD525 Three-in-One Printer
+Price: Regularly $120.00 Now $99.99 (Offer valid March 1–March 15)
+Includes one complimentary Stylero-01 (black) ink cartridge with purchase! Stylero color ink cartridges sold separately.
+The RD525 is one of our most popular models: a wireless color printer, scanner, and photocopier in one. It's perfect for everyday printing needs in homes, classrooms, and small offices. Though compatible with many brands of ink cartridges, we recommend our own Stylero-brand ink, which lasts up to twice as long as other products. A three-year warranty is available for $7.95.[cite: 30]
+[DOC_2_TYPE]: Online review
+[DOC_2_CONTENT]:
+http://www.loveitornot.com/productreviews/stylero/RD525
+(April 3) I bought the Stylero RD525 last month for my home office. I give digital photography lessons out of my home several nights per week and need easy access to color prints for my students' work in my classes. I haven't had any trouble with the photocopier or scanner, and the quality of the prints is excellent in both color and in black and white. However, I've been experiencing delays with the printer feature at times. There is a five-minute lag between sending my prints from the computer and when the printing actually begins. I can't use this device for instant prints in class, or I lose valuable class time. I wish I'd bought a different printer, or at least bought the warranty to get it repaired!
+Alicia Boisvert[cite: 30]
+[DOC_3_TYPE]: Online response
+[DOC_3_CONTENT]:
+http://www.loveitornot.com/productreviews/stylero/RD525
+(April 5) I bought this printer for my classroom and noticed the same issue that Ms. Boisvert described. There is a relatively simple fix though. Most printers go into "sleep mode" to conserve energy between prints. If the length of time before entering sleep mode is set for too short a time, there will be a delay between sending the photos from the computer and the actual printing because the printer will need to warm up each time. Make sure you adjust the sleep mode feature to wait at least an hour before going to sleep. The instructions are in the manual. I always turn the printer on a few minutes before class and it doesn't pose an issue. It's an easy adjustment and I think the RD525 is a good product for the price.
+Antonio Thompson[cite: 31]
+[Q: 191]
+[PROMPT]: What is indicated about the Stylero RD525?[cite: 31]
+[A]: It requires Stylero brand ink.
+[B]: It can function as a photocopier.
+[C]: It was sold at a discount for a month.
+[D]: It will be discontinued after March 15.
+[KEY]: B
+[EXPLANATION]: Đoạn giới thiệu (DOC 1) mô tả RD525 là một thiết bị ba-trong-một: "wireless color printer, scanner, and photocopier in one" (máy in, máy quét và máy photocopy).[cite: 30]
+[Q: 192]
+[PROMPT]: What did Ms. Boisvert most likely spend additional money on?[cite: 31]
+[A]: A monitor
+[B]: A three-year warranty
+[C]: A scanner
+[D]: Color ink cartridges
+[KEY]: D
+[EXPLANATION]: Cô Boisvert nhắc đến việc cần in màu ("need easy access to color prints"). Trong quảng cáo (DOC 1), máy in chỉ kèm miễn phí hộp mực đen (black ink cartridge), hộp mực màu (color ink cartridges) bán riêng nên cô ấy phải mua thêm.[cite: 30]
+[Q: 193]
+[PROMPT]: What does Ms. Boisvert say about the Stylero RD525?[cite: 31]
+[A]: It is durable.
+[B]: It produces good prints.
+[C]: It is expensive.
+[D]: It requires regular maintenance.
+[KEY]: B
+[EXPLANATION]: Trong bài đánh giá (DOC 2), cô ấy khen ngợi chất lượng ảnh in ra: "the quality of the prints is excellent".[cite: 30]
+[Q: 194]
+[PROMPT]: What is suggested about both Ms. Boisvert and Mr. Thompson?[cite: 31]
+[A]: They are teachers.
+[B]: They returned the Stylero RD525.
+[C]: They enjoy photography.
+[D]: They have printers at home.
+[KEY]: A
+[EXPLANATION]: Cả hai người đều dạy học. Cô Boisvert cho biết "I give digital photography lessons", còn ông Thompson nhắc tới "for my classroom" và "before class".[cite: 30, 31]
+[Q: 195]
+[PROMPT]: What advice does Mr. Thompson give regarding the Stylero RD525?[cite: 31]
+[A]: Unplug it between uses.
+[B]: Replace its power button.
+[C]: Adjust one of its features.
+[D]: Turn it on an hour in advance.
+[KEY]: C
+[EXPLANATION]: Ông Thompson (DOC 3) khuyên điều chỉnh lại tính năng thời gian chờ (sleep mode): "adjust the sleep mode feature".[cite: 31]
+[PASSAGE_SET: 196-200]
+[DOC_1_TYPE]: Chart
+[DOC_1_CONTENT]:
+Baardsen Laundry Machine Series
+Model | Load Capacity | Loading Door Position | Automatic Detergent Dispenser | Pre-wash Cycle
+Lute | 9 kg | Front | Yes | No
+Xenon | 10 kg | Front | No | No
+Indium | 12 kg | Front | Yes | Yes
+Mercury | 14 kg | Front | Yes | Yes
+Note: Baardsen washers with a load size greater than 10 kg are outfitted with Fluxstat water-saving technology.[cite: 32]
+[DOC_2_TYPE]: Customer query
+[DOC_2_CONTENT]:
+Issue with Baardsen
+Posted by: Patricia Canton
+I bought my Baardsen washing machine five months ago for use at my bed and breakfast inn. Overall, I have been satisfied with the appliance features. The extra rinse cycle is helpful for guests who are sensitive to chemicals or perfumes in laundry detergent. I needed a washer with the largest capacity so it could handle my typical volume of bed linens and towels. The main issue with my machine has been an annoying banging sound. It happens sometimes when the guests use the machine. It is a problem because the laundry room is situated just off the patio where guests often dine. I sent a message to the company asking for help and they informed me that the load needs to be evenly distributed in the wash tub. But that didn't prove to be the source of the problem. How can I get rid of this noise?[cite: 32]
+[DOC_3_TYPE]: Notice to guests
+[DOC_3_CONTENT]:
+Patty's Bed and Breakfast Guest Services:
+Kitchen:
+Enjoy the lovely spring weather by taking your breakfast, served between 8:00 and 9:30 A.M., on the patio. We offer self-service for coffee and tea around the clock. The household coffeemaker and tea kettle are next to the stove, and supplies are stored in the cupboard nearby.
+Laundry Room:
+Fresh towels are provided daily and bed linens are changed weekly. If you would like to use the washing machine, please choose the eco-saving setting. Select your preferred temperature and power setting. When adding detergent, make sure the detergent drawer is closed tightly before you start the machine. If not properly secured, it may open during the rinse cycle and cause a bothersome noise. Also, the extra-rinse option is recommended if you have any sensitivity to laundry soap.
+Patricia Canton, Proprietor[cite: 33]
+[Q: 196]
+[PROMPT]: According to the chart, what is true about all Baardsen laundry-machine models?[cite: 33]
+[A]: They use the same water-saving feature.
+[B]: They are energy efficient.
+[C]: They release laundry detergent automatically.
+[D]: They are loaded through a door on the front of the appliance.
+[KEY]: D
+[EXPLANATION]: Nhìn vào bảng (DOC 1), cột "Loading Door Position" cho tất cả các mẫu máy giặt đều ghi là "Front" (cửa mở phía trước).[cite: 32]
+[Q: 197]
+[PROMPT]: What washing machine model did Ms. Canton most likely purchase?[cite: 33]
+[A]: Lute
+[B]: Xenon
+[C]: Indium
+[D]: Mercury
+[KEY]: D
+[EXPLANATION]: Cô Canton đề cập trong bài viết (DOC 2) rằng "I needed a washer with the largest capacity" (Cần máy có dung tích lớn nhất). Trong bảng, mẫu "Mercury" lớn nhất với 14 kg.[cite: 32]
+[Q: 198]
+[PROMPT]: According to Ms. Canton's query, when is a noise particularly annoying?[cite: 33]
+[A]: When she uses the machine
+[B]: When guests of the inn are sleeping
+[C]: When guests of the inn are eating
+[D]: When the laundry dryer is also running
+[KEY]: C
+[EXPLANATION]: "It is a problem because the laundry room is situated just off the patio where guests often dine" (gây vấn đề vì phòng giặt gần sân nơi khách thường dùng bữa ăn).[cite: 32]
+[Q: 199]
+[PROMPT]: According to the notice, what is available to guests at any time?[cite: 33]
+[A]: Fresh towels
+[B]: Hot beverages
+[C]: Box lunches
+[D]: Refrigerators in guest rooms
+[KEY]: B
+[EXPLANATION]: "We offer self-service for coffee and tea around the clock" (phục vụ cà phê và trà suốt 24/24 giờ -&gt; đồ uống nóng).[cite: 33]
+[Q: 200]
+[PROMPT]: What advice did Ms. Canton most likely receive as a reply to her query?[cite: 33]
+[A]: Avoid overloading the washing machine.
+[B]: Always use the water-saving setting.
+[C]: Always select the extra-rinse feature.
+[D]: Ensure that the soap drawer is firmly closed.
+[KEY]: D
+[EXPLANATION]: Ở đoạn nhắc nhở cho khách (DOC 3), cô đã bổ sung hướng dẫn: "make sure the detergent drawer is closed tightly... If not properly secured, it may open during the rinse cycle and cause a bothersome noise" (đảm bảo khay đựng bột giặt được đóng chặt để tránh gây tiếng ồn khó chịu). Đây chính là nguyên nhân mà công ty đã tư vấn cho cô ấy.[cite: 33]
